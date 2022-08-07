@@ -1,0 +1,11 @@
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\пианино.csprojAssemblyReference.cache
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\пианино.csproj.GenerateResource.cache
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\пианино.csproj.CoreCompileInputs.cache
+C:\Users\НР\source\repos\пианино\пианино\bin\Debug\пианино.exe.config
+C:\Users\НР\source\repos\пианино\пианино\bin\Debug\пианино.exe
+C:\Users\НР\source\repos\пианино\пианино\bin\Debug\пианино.pdb
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\пианино.exe
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\пианино.pdb
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\пианино.Form2.resources
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\пианино.Form1.resources
+C:\Users\НР\source\repos\пианино\пианино\obj\Debug\buhf.Properties.Resources.resources
